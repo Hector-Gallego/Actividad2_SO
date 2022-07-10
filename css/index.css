@@ -46,9 +46,9 @@
 }
 
 .lista{
-    height: 20em;
+
     max-height: 20em;
-    min-height: 20em;
+
     background-color: #efefef;
     overflow-y: auto;
 
@@ -66,17 +66,23 @@
     padding: 1em;
     margin-bottom: 1em;
 
-    background-color: #e7b011;
-    color: white;
+    background-color: #ff5e5e;
+    color: #ffffff;
     border-radius: 10px;
-    border: solid #413e3e 1px;
+
 
 }
 
 .item-ent{
     padding: 1em;
     margin-bottom: 1em;
-    background-color: #3a4931;
+    background-color: #719866;
     color: white;
     border-radius: 10px;
+}
+.datos{
+    font-size: 1.2rem;
+}
+footer{
+    margin-top: 7em;
 }
